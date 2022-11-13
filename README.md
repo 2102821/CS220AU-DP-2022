@@ -28,7 +28,9 @@ How to use this GitHub repository as a template for your submission, including h
 
 - 2022-10-18 Created a github account and undersatanding the modudle outline and assessments.
 - 2022-10-18 Introduction to digital identities and essistential risks
-- 2021-10-24 Verified my github account and created a few flies(READ.ME ) and corrected minnor mistakes in my repository 
+- 2022-10-24 Verified my github account and created a few flies(READ.ME ) and corrected minnor mistakes in my repository 
+- 2022-11-13 shared TODO list and ideas with Anaamria 
+- 2022-11-
 
 
 
@@ -36,22 +38,22 @@ How to use this GitHub repository as a template for your submission, including h
 
 ## TODO
 ### in week 3
-# Understand the vr map.
-# Understand the marked language.
-# Learn what essistental risks are.
+## Understand the vr map.
+## Understand the marked language.
+## Learn what essistental risks are.
 
 ### in week 4 
-# Think of your research question .
-# Familiarize yourself around github.
-# Ask for help if needed.
-# More research on essitential risks and how they are linked to digital identity.
-# what is metaverse
+## Think of your research question .
+## Familiarize yourself around github.
+## Ask for help if needed.
+## More research on essitential risks and how they are linked to digital identity.
+## what is metaverse
 
 ### in week 6
-# Write your research question down .
-# Undertand and research .
-# Make notes of your research.
-# Look at examples of website 
-# Think of what your website should entail.
+## Write your research question down .
+## Undertand and research .
+## Make notes of your research.
+## Look at examples of website 
+## Think of what your website should entail.
 
 
