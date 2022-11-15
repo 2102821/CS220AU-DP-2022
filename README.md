@@ -38,7 +38,7 @@ How to use this GitHub repository as a template for your submission, including h
 <br>
 
 ## TODO
-###    in week 3
+### in week 3
 ## Understand the vr map.
 ## Understand the marked language.
 ## Learn what essistental risks are.
