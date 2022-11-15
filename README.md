@@ -30,14 +30,15 @@ How to use this GitHub repository as a template for your submission, including h
 - 2022-10-18 Introduction to digital identities and essistential risks
 - 2022-10-24 Verified my github account and created a few flies(READ.ME ) and corrected minnor mistakes in my repository 
 - 2022-11-13 shared TODO list and ideas with Anaamria 
-- 2022-11-
+- 2022-11-15 Understood more about what to do for my website and research question 
+- 
 
 
 
 <br>
 
 ## TODO
-### in week 3
+###    in week 3
 ## Understand the vr map.
 ## Understand the marked language.
 ## Learn what essistental risks are.
