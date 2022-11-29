@@ -31,7 +31,7 @@ How to use this GitHub repository as a template for your submission, including h
 - 2022-10-24 Verified my github account and created a few flies(READ.ME ) and corrected minnor mistakes in my repository 
 - 2022-11-13 shared TODO list and ideas with Anaamria 
 - 2022-11-15 Understood more about what to do for my website and research question 
-- 
+- 2022-11-17 
 
 
 
