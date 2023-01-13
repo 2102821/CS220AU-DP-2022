@@ -19,6 +19,23 @@
 
 #### According to Kelly (2022), he stated that Udacity’s CEO Gabriel Dalporto, explained how the business name was inspired by its willingness to be "provocative for oneself, the student," can assist you in advancing your professional life. The global online curriculum provider "changes lives, companies, and countries through drastic skill conversion in mobile technology" and provides courses in 190 nations. The skills shortage has attained a crisis pitch, according to Dalporto, who was speaking about the speeding up of technological advances and how they are affecting the workplace. He added, "Businesses will fail if they do not engage in talent modification." Businesses all over the world now face an existential threat due to a lack of digital talent that is ready for the workforce.
 
+ ![960x0](https://user-images.githubusercontent.com/116093650/212432739-cfd34293-6500-42f9-9daa-2c2209731ed2.jpg)
+ 
+ ## HOW DOES THE DIGITAL DIVIDE POSE AS AN EXISTENTIAL THREAT?
+  #### HOW DOES THE DIGITAL DIVIDE POSE AS AN EXISTENTAL THREAT?
+In our race to protect humanity from the obvious and immediate dangers posed by the environmental crisis, relevant data analysis, and documentation are crucial building blocks.
+If we want to save our planet and our citizens from the catastrophic consequences of sea level rise, thermal spikes, extreme weather, and other climate changes that are halting global human, social, and industrial growth, we must act decisively and comprehensively. 
+
+The only issue is that there are digital haves and have-nots in our world. Simply put, if we want to save civilization from the truly existential threat of this enormous and complex crisis, we need to close the digital gap and create a more effective and implementable climate risk evaluation. Climate risk assessments will offer the scientific proof we need to achieve the goals for reduced emissions and climate-resilient advancement underlined in the Paris Agreement and investment plans for the next 30 years. And while we are getting better at modelling climate change, there are still significant gaps in the overlay of weakness, environmental, and weather information that make it difficult for us to properly estimate upcoming risks and create useful models at the local, regional, and global scales.
+
+![important-difference-between-global-warming-and-climate-change](https://user-images.githubusercontent.com/116093650/212433036-3affa6c7-8655-4af4-8ad0-7b43200dae23.jpg) 
+
+#### In the developing world, climate data is still manually entered. These data sets span more than 30 years. However, since there is no way to verify its accuracy, it does not provide much help as we try to clearly map and prepare for numerous climate scenarios. It is becoming increasingly challenging to simulate precipitation, the risk of flooding, and even rising seas without this collective data base and the digital firepower required to ensure we are crunching these numbers in accordance with the Four Vs of Big Data: capacity, range, acceleration, and factuality. Because we fail to collect and analyse weather and climate statistics properly, we are halting advancement and putting lives in danger. 
+
+
+
+
+
 
 
 
