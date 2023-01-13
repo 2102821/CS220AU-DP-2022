@@ -26,35 +26,25 @@ How to use this GitHub repository as a template for your submission, including h
 
 ## Log
 
-- 2022-10-18 Created a github account and undersatanding the modudle outline and assessments.
-- 2022-10-18 Introduction to digital identities and essistential risks
+- 2022-10-18 Created a github account and undersatanding the module outline and assessments.
+- 2022-10-18 Introduction to digital identities and essistential risks.
 - 2022-10-24 Verified my github account and created a few flies(READ.ME ) and corrected minnor mistakes in my repository 
-- 2022-11-13 shared TODO list and ideas with Anaamria 
-- 2022-11-15 Understood more about what to do for my website and research question 
-- 2022-11-17 
+- 2022-11-13 shared TODO list and ideas with Anaamria.
+- 2022-11-15 Understood more about what to do for my website and research question.
+- 2022-11-17 wrote down a sketch for my research question.
+- 2022-11-23 Found suitable articles for my research question.
+- 2022-11-27 Familarized myself with the use of a vr map.
+- 2022-11-27 linked my research topic to an existential risk.
+- 
+- 2023-01-01 wrote down my essay on word.
+- 2023-01-06 I found it hard on what to do next.
+- 2023-01-08 Tried to familiarize myself around Github and asked for help.
+- 2023-01-10 Updated my index file.
+- 2023-01-10 Understanding and making use of the marked language.
+- 
 
 
 
 <br>
-
-## TODO
-### in week 3
-## Understand the vr map.
-## Understand the marked language.
-## Learn what essistental risks are.
-
-### in week 4 
-## Think of your research question .
-## Familiarize yourself around github.
-## Ask for help if needed.
-## More research on essitential risks and how they are linked to digital identity.
-## what is metaverse
-
-### in week 6
-## Write your research question down .
-## Undertand and research .
-## Make notes of your research.
-## Look at examples of website 
-## Think of what your website should entail.
 
 
