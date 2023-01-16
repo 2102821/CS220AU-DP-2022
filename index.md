@@ -38,6 +38,11 @@ If we want to save our planet and our citizens from the catastrophic consequence
 
 The only issue is that there are digital haves and have-nots in our world. Simply put, if we want to save civilization from the truly existential threat of this enormous and complex crisis, we need to close the digital gap and create a more effective and implementable climate risk evaluation. Climate risk assessments will offer the scientific proof we need to achieve the goals for reduced emissions and climate-resilient advancement underlined in the Paris Agreement and investment plans for the next 30 years. And while we are getting better at modelling climate change, there are still significant gaps in the overlay of weakness, environmental, and weather information that make it difficult for us to properly estimate upcoming risks and create useful models at the local, regional, and global scales.
 
+
+https://www.youtube.com/watch?v=M2rNRevynQk 
+
+
+
 ![important-difference-between-global-warming-and-climate-change](https://user-images.githubusercontent.com/116093650/212433036-3affa6c7-8655-4af4-8ad0-7b43200dae23.jpg) 
 
  In the developing world, climate data is still manually entered. These data sets span more than 30 years. However, since there is no way to verify its accuracy, it does not provide much help as we try to clearly map and prepare for numerous climate scenarios. It is becoming increasingly challenging to simulate precipitation, the risk of flooding, and even rising seas without this collective data base and the digital firepower required to ensure we are crunching these numbers in accordance with the Four Vs of Big Data: capacity, range, acceleration, and factuality. Because we fail to collect and analyse weather and climate statistics properly, we are halting advancement and putting lives in danger. 
