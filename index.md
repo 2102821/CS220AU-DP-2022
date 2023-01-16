@@ -13,7 +13,7 @@ The "digital divide," which impacts 52% of women and 42% of men globally, is a d
 
 
 
-https://user-images.githubusercontent.com/116093650/212754037-ceca686e-91ed-4191-ab1b-c310130c1e59.mp4 
+"https://www.youtube.com/embed/YDHpDBCpUTI" 
 
 
 
