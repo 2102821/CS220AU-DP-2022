@@ -31,6 +31,7 @@ According to Kelly (2022), he stated that Udacity’s CEO Gabriel Dalporto, expl
 
  ![960x0](https://user-images.githubusercontent.com/116093650/212432739-cfd34293-6500-42f9-9daa-2c2209731ed2.jpg)
  ## Body 
+ 
  ## HOW DOES THE DIGITAL DIVIDE POSE AS AN EXISTENTIAL THREAT?
   #### HOW DOES THE DIGITAL DIVIDE POSE AS AN EXISTENTAL THREAT?
 In our race to protect humanity from the obvious and immediate dangers posed by the environmental crisis, relevant data analysis, and documentation are crucial building blocks.
