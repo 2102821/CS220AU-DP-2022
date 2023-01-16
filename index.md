@@ -30,10 +30,9 @@ However, the digital divide was originally thought to be the result of economic 
 According to Kelly (2022), he stated that Udacity’s CEO Gabriel Dalporto, explained how the business name was inspired by its willingness to be "provocative for oneself, the student," can assist you in advancing your professional life. The global online curriculum provider "changes lives, companies, and countries through drastic skill conversion in mobile technology" and provides courses in 190 nations. The skills shortage has attained a crisis pitch, according to Dalporto, who was speaking about the speeding up of technological advances and how they are affecting the workplace. He added, "Businesses will fail if they do not engage in talent modification." Businesses all over the world now face an existential threat due to a lack of digital talent that is ready for the workforce.
 
  ![960x0](https://user-images.githubusercontent.com/116093650/212432739-cfd34293-6500-42f9-9daa-2c2209731ed2.jpg)
- ## Body 
  
- ## HOW DOES THE DIGITAL DIVIDE POSE AS AN EXISTENTIAL THREAT?
-  #### HOW DOES THE DIGITAL DIVIDE POSE AS AN EXISTENTAL THREAT?
+ ## Body 
+ ### HOW DOES THE DIGITAL DIVIDE POSE AS AN EXISTENTIAL THREAT?
 In our race to protect humanity from the obvious and immediate dangers posed by the environmental crisis, relevant data analysis, and documentation are crucial building blocks.
 If we want to save our planet and our citizens from the catastrophic consequences of sea level rise, thermal spikes, extreme weather, and other climate changes that are halting global human, social, and industrial growth, we must act decisively and comprehensively. 
 
