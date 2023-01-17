@@ -37,3 +37,11 @@ The portfolio I submit contains the following:
 - 2023-01-10 I updated my index.md file.
 - 2023-01-10 I understood more about using the Markdown language.
 
+## TODO
+- peer-assessment with Ana
+- in the index.md file, provide references (1. academic, 2. footnotes or 3. hyperlinking)
+- experiment with spaces between paragraphs, figures and videos 
+- spellcheck
+- self-assessment 
+- complete dp-checklist file
+- submit
