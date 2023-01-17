@@ -5,17 +5,19 @@
 
 An uncertainty that poses a threat to humankind's entire future is known as an existential threat. Existential risks, more particularly, are those that put intelligent life that originated on Earth in danger of going extinct or drastically and permanently losing its possibility for desired future development. There has never been a catastrophic existential event. If humans go extinct before the universe reaches its "heat death" or before our capacity to produce value is fully realised, it would be an existential disaster. If the future potential of civilization is permanently and drastically destroyed, some situations in which humanity survives will also constitute existential catastrophes; this will be to human civilization what a life term in prison or a severe brain injury is to a person.
 
+<br>
 ![image](https://user-images.githubusercontent.com/116093650/212420453-bf6c07b8-ac3b-41e3-ae72-83510e14aa17.jpg)
+<br>
 
 ### WHAT IS THE DIGITAL DIVIDE?
 
 The "digital divide," which impacts 52% of women and 42% of men globally, is a disparity in the availability of internet access and communications technology. When we consider regions, the difference is even more pronounced: as of December 2021, only 43.1% of people in Africa had an internet connection, compared to 88.4% of individuals living in Europe and 93.4% of people in the United States, regardless of the fact that 3G and 4G networks are already present almost everywhere on the planet, while waiting for the massive 5G rollout, the data reveals the technological divide that exists between some nations and others. Here, it's critical to make a distinction between Internet connectivity and technological literacy, or the process of learning that equips a person with the knowledge and abilities to comprehend and take advantage of the educational, financial, and social advantages of new technologies.
 
-<br>
+<br><br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YDHpDBCpUTI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<br>
+<br><br>
 
 ![digital divide ](https://user-images.githubusercontent.com/116093650/212422888-88510260-502f-4631-8ed4-23fcb96e9d90.svg) 
 
