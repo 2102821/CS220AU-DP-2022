@@ -41,9 +41,11 @@ In our race to protect humanity from the obvious and immediate dangers posed by 
 
 The only issue is that there are digital haves and have-nots in our world. Simply put, if we want to save civilization from the truly existential threat of this enormous and complex crisis, we need to close the digital gap and create a more effective and implementable climate risk evaluation. Climate risk assessments will offer the scientific proof we need to achieve the goals for reduced emissions and climate-resilient advancement underlined in the Paris Agreement and investment plans for the next 30 years. And while we are getting better at modelling climate change, there are still significant gaps in the overlay of weakness, environmental, and weather information that make it difficult for us to properly estimate upcoming risks and create useful models at the local, regional, and global scales.
 
+<br><br>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/M2rNRevynQk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<br>
+<br><br>
 
 ![important-difference-between-global-warming-and-climate-change](https://user-images.githubusercontent.com/116093650/212433036-3affa6c7-8655-4af4-8ad0-7b43200dae23.jpg) 
 
