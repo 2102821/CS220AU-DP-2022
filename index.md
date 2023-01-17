@@ -11,13 +11,7 @@ An uncertainty that poses a threat to humankind's entire future is known as an e
 
 The "digital divide," which impacts 52% of women and 42% of men globally, is a disparity in the availability of internet access and communications technology. When we consider regions, the difference is even more pronounced: as of December 2021, only 43.1% of people in Africa had an internet connection, compared to 88.4% of individuals living in Europe and 93.4% of people in the United States, regardless of the fact that 3G and 4G networks are already present almost everywhere on the planet, while waiting for the massive 5G rollout, the data reveals the technological divide that exists between some nations and others. Here, it's critical to make a distinction between Internet connectivity and technological literacy, or the process of learning that equips a person with the knowledge and abilities to comprehend and take advantage of the educational, financial, and social advantages of new technologies.
 
-
-https://user-images.githubusercontent.com/116093650/212758094-4b03c388-e4fb-4cd9-9ee7-b83cbdfff8d9.mp4
-
-
-
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YDHpDBCpUTI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ![digital divide ](https://user-images.githubusercontent.com/116093650/212422888-88510260-502f-4631-8ed4-23fcb96e9d90.svg) 
 
