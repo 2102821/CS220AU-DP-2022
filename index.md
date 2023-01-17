@@ -11,7 +11,11 @@ An uncertainty that poses a threat to humankind's entire future is known as an e
 
 The "digital divide," which impacts 52% of women and 42% of men globally, is a disparity in the availability of internet access and communications technology. When we consider regions, the difference is even more pronounced: as of December 2021, only 43.1% of people in Africa had an internet connection, compared to 88.4% of individuals living in Europe and 93.4% of people in the United States, regardless of the fact that 3G and 4G networks are already present almost everywhere on the planet, while waiting for the massive 5G rollout, the data reveals the technological divide that exists between some nations and others. Here, it's critical to make a distinction between Internet connectivity and technological literacy, or the process of learning that equips a person with the knowledge and abilities to comprehend and take advantage of the educational, financial, and social advantages of new technologies.
 
+<br>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YDHpDBCpUTI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<br>
 
 ![digital divide ](https://user-images.githubusercontent.com/116093650/212422888-88510260-502f-4631-8ed4-23fcb96e9d90.svg) 
 
@@ -23,35 +27,29 @@ However, the digital divide was originally thought to be the result of economic 
 
 According to Kelly (2022), he stated that Udacity’s CEO Gabriel Dalporto, explained how the business name was inspired by its willingness to be "provocative for oneself, the student," can assist you in advancing your professional life. The global online curriculum provider "changes lives, companies, and countries through drastic skill conversion in mobile technology" and provides courses in 190 nations. The skills shortage has attained a crisis pitch, according to Dalporto, who was speaking about the speeding up of technological advances and how they are affecting the workplace. He added, "Businesses will fail if they do not engage in talent modification." Businesses all over the world now face an existential threat due to a lack of digital talent that is ready for the workforce.
 
- ![960x0](https://user-images.githubusercontent.com/116093650/212432739-cfd34293-6500-42f9-9daa-2c2209731ed2.jpg)
+![960x0](https://user-images.githubusercontent.com/116093650/212432739-cfd34293-6500-42f9-9daa-2c2209731ed2.jpg)
  
- ## Body 
- ### HOW DOES THE DIGITAL DIVIDE POSE AS AN EXISTENTIAL THREAT?
-In our race to protect humanity from the obvious and immediate dangers posed by the environmental crisis, relevant data analysis, and documentation are crucial building blocks.
-If we want to save our planet and our citizens from the catastrophic consequences of sea level rise, thermal spikes, extreme weather, and other climate changes that are halting global human, social, and industrial growth, we must act decisively and comprehensively. 
+## Body 
+### HOW DOES THE DIGITAL DIVIDE POSE AS AN EXISTENTIAL THREAT?
+
+In our race to protect humanity from the obvious and immediate dangers posed by the environmental crisis, relevant data analysis, and documentation are crucial building blocks. If we want to save our planet and our citizens from the catastrophic consequences of sea level rise, thermal spikes, extreme weather, and other climate changes that are halting global human, social, and industrial growth, we must act decisively and comprehensively. 
 
 The only issue is that there are digital haves and have-nots in our world. Simply put, if we want to save civilization from the truly existential threat of this enormous and complex crisis, we need to close the digital gap and create a more effective and implementable climate risk evaluation. Climate risk assessments will offer the scientific proof we need to achieve the goals for reduced emissions and climate-resilient advancement underlined in the Paris Agreement and investment plans for the next 30 years. And while we are getting better at modelling climate change, there are still significant gaps in the overlay of weakness, environmental, and weather information that make it difficult for us to properly estimate upcoming risks and create useful models at the local, regional, and global scales.
 
-
-https://www.youtube.com/watch?v=M2rNRevynQk 
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M2rNRevynQk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ![important-difference-between-global-warming-and-climate-change](https://user-images.githubusercontent.com/116093650/212433036-3affa6c7-8655-4af4-8ad0-7b43200dae23.jpg) 
 
- In the developing world, climate data is still manually entered. These data sets span more than 30 years. However, since there is no way to verify its accuracy, it does not provide much help as we try to clearly map and prepare for numerous climate scenarios. It is becoming increasingly challenging to simulate precipitation, the risk of flooding, and even rising seas without this collective data base and the digital firepower required to ensure we are crunching these numbers in accordance with the Four Vs of Big Data: capacity, range, acceleration, and factuality. Because we fail to collect and analyse weather and climate statistics properly, we are halting advancement and putting lives in danger. 
+In the developing world, climate data is still manually entered. These data sets span more than 30 years. However, since there is no way to verify its accuracy, it does not provide much help as we try to clearly map and prepare for numerous climate scenarios. It is becoming increasingly challenging to simulate precipitation, the risk of flooding, and even rising seas without this collective data base and the digital firepower required to ensure we are crunching these numbers in accordance with the Four Vs of Big Data: capacity, range, acceleration, and factuality. Because we fail to collect and analyse weather and climate statistics properly, we are halting advancement and putting lives in danger.
  
 ## DIGITAL COLONIALISM 
 
- This could be another form of existential risk in the digital world. Traditional colonialism involved the eviction of indigenous populations from their lands, the exploitation of their labour, the exercise of extraterritorial rule, and the deliberate backwardness necessary to maintain reliance and plunder. Businesses like the East India Company were crucial to this process. Europeans seized control and possession of vital infrastructure, such as port facilities, water sources, and railroad tracks, in their quest for wealth and power. As a result, tech companies have spread their products throughout the world, collecting data and money from users everywhere while concentrating energy and resources in the US (with China as a growing competitor).Because of the abundance of widely accessible information and technology, less developed nations are unable to create industries and products that can rival those of wealthy Western nations. Additionally, they are unable to defend their people against oppression.
-
+This could be another form of existential risk in the digital world. Traditional colonialism involved the eviction of indigenous populations from their lands, the exploitation of their labour, the exercise of extraterritorial rule, and the deliberate backwardness necessary to maintain reliance and plunder. Businesses like the East India Company were crucial to this process. Europeans seized control and possession of vital infrastructure, such as port facilities, water sources, and railroad tracks, in their quest for wealth and power. As a result, tech companies have spread their products throughout the world, collecting data and money from users everywhere while concentrating energy and resources in the US (with China as a growing competitor).Because of the abundance of widely accessible information and technology, less developed nations are unable to create industries and products that can rival those of wealthy Western nations. Additionally, they are unable to defend their people against oppression
 
 ![Digital-colonization-with-Internet-governance](https://user-images.githubusercontent.com/116093650/212434340-8c00522f-3968-4fad-9d36-88421daef5fa.png)
 
-
-
 ## CONCLUSION 
- In conclusion, the digital divide in the world can cause danger to humanity if people do not learn technological skills to help the economy. This could also cause an existential threat to humanity if companies or educational institutions do not invest in teaching and providing technological devices in underdeveloped countries and schools that cannot provide laptops for their students.
+In conclusion, the digital divide in the world can cause danger to humanity if people do not learn technological skills to help the economy. This could also cause an existential threat to humanity if companies or educational institutions do not invest in teaching and providing technological devices in underdeveloped countries and schools that cannot provide laptops for their students.
 
 
 
