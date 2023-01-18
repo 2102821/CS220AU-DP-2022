@@ -54,6 +54,7 @@ The only issue is that there are digital haves and have-nots in our world. Simpl
 <br><br>
 
 ![important-difference-between-global-warming-and-climate-change](https://user-images.githubusercontent.com/116093650/212433036-3affa6c7-8655-4af4-8ad0-7b43200dae23.jpg) 
+Source:(https://www.unrevealedfiles.com/important-differences-between-global-warming-and-climate-change/)
 
 In the developing world, climate data is still manually entered. These data sets span more than 30 years. However, since there is no way to verify its accuracy, it does not provide much help as we try to clearly map and prepare for numerous climate scenarios. It is becoming increasingly challenging to simulate precipitation, the risk of flooding, and even rising seas without this collective data base and the digital firepower required to ensure we are crunching these numbers in accordance with the Four Vs of Big Data: capacity, range, acceleration, and factuality. Because we fail to collect and analyse weather and climate statistics properly, we are halting advancement and putting lives in danger.
  
@@ -62,6 +63,7 @@ In the developing world, climate data is still manually entered. These data sets
 [Kewt(2019)](https://www.aljazeera.com/opinions/2019/3/13/digital-colonialism-is-threatening-the-global-south) says that this could be another form of existential risk in the digital world. Traditional colonialism involved the eviction of indigenous populations from their lands, the exploitation of their labour, the exercise of extraterritorial rule, and the deliberate backwardness necessary to maintain reliance and plunder. Businesses like the East India Company were crucial to this process. Europeans seized control and possession of vital infrastructure, such as port facilities, water sources, and railroad tracks, in their quest for wealth and power. As a result, tech companies have spread their products throughout the world, collecting data and money from users everywhere while concentrating energy and resources in the US (with China as a growing competitor). Because of the abundance of widely accessible information and technology, less developed nations are unable to create industries and products that can rival those of wealthy Western nations. Additionally, they are unable to defend their people against oppression .
 
 ![Digital-colonization-with-Internet-governance](https://user-images.githubusercontent.com/116093650/212434340-8c00522f-3968-4fad-9d36-88421daef5fa.png)
+Source: 
 
 ## Conclusion
 
