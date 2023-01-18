@@ -34,11 +34,12 @@ Source:(https://deivisonnkosi.com.br/livros/digital-colonialism/)
 <br><br> 
 
 ![newtech1](https://user-images.githubusercontent.com/116093650/212425376-501102cb-b921-45ad-82b7-67e148881c1e.jpg) 
-
+Source: (https://www.un.org/en/un75/impact-digital-technologies) 
 
 [Kelly (2022)](https://www.forbes.com/sites/jackkelly/2022/03/02/the-lack-of-digital-tech-talent-is-an-existential-threat-to-business-growth-and-innovation/?sh=1ea475927628), also stated that Udacity’s CEO Gabriel Dalporto, explained how the business name was inspired by its willingness to be "provocative for oneself, the student," can assist you in advancing your professional life. The global online curriculum provider "changes lives, companies, and countries through drastic skill conversion in mobile technology" and provides courses in 190 nations. The skills shortage has attained a crisis pitch, according to Dalporto, who was speaking about the speeding up of technological advances and how they are affecting the workplace. He added, "Businesses will fail if they do not engage in talent modification." Businesses all over the world now face an existential threat due to a lack of digital talent that is ready for the workforce.
 
 ![960x0](https://user-images.githubusercontent.com/116093650/212432739-cfd34293-6500-42f9-9daa-2c2209731ed2.jpg)
+Source:(https://www.forbes.com/sites/bernardmarr/2022/12/02/is-our-digital-future-at-risk-because-of-the-gen-z-skills-gap/?sh=1e34dd013ce5)
 
 ## How does the digital divide pose as an existential threat?
 
