@@ -21,6 +21,7 @@ The [FAQ website Iberdrola says](https://www.iberdrola.com/social-commitment/wha
 
 ![digital divide ](https://user-images.githubusercontent.com/116093650/212422888-88510260-502f-4631-8ed4-23fcb96e9d90.svg) 
 
+source:(https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d:the-internet/xcae6f4a7ff015e7d:the-digital-divide/a/the-global-digital-divide)
 <br><br>
 
 ![Slide4](https://user-images.githubusercontent.com/116093650/212422963-26e42141-f699-4b3b-844f-bf8edb40b21c.jpeg) 
