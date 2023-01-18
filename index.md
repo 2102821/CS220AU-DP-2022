@@ -7,7 +7,7 @@ The website future of humanity insitutue [FAQ states that](https://existential-r
 
 <br>
 ![image](https://user-images.githubusercontent.com/116093650/212420453-bf6c07b8-ac3b-41e3-ae72-83510e14aa17.jpg)
-<br>
+<br> 
 
 ### WHAT IS THE DIGITAL DIVIDE?
 
