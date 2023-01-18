@@ -59,7 +59,8 @@ In the developing world, climate data is still manually entered. These data sets
 
 ## Conclusion
 
-In conclusion, the digital divide in the world can cause danger to humanity if people do not learn technological skills to help the economy. This could also cause an existential threat to humanity if companies or educational institutions do not invest in teaching and providing technological devices in underdeveloped countries and schools that cannot provide laptops for their students.
+[In conclusion](https://www.plymouth.ac.uk/discover/how-can-breaking-the-digital-divide-improve-the-health-and-wellbeing-of-older-people) all generations, respectively in urban and rural societies, as well as a wide range of businesses and sectors, are impacted by the digital divide. The internet has increased possibilities, but it has also increased inequalities for those who lack the tools, innovations, or skills required to take part in the digital environment. However, In the face of upcoming epidemics and more severe social isolation, clearing the digital divide will guarantee better stability. These alternatives include enhancing digital inclusion laws, regulations, and resources that will promote: All users should have access to computer-based training, dependable and usable engineering services, and applications that are created to promote independence, involvement, and partnership. Reasonably priced, trustworthy broadband internet service is also necessary.
+The digital divide in the world can cause danger to humanity if people do not learn technological skills to help the economy. This could also cause an existential threat to humanity if companies or educational institutions do not invest in teaching and providing technological devices in underdeveloped countries and schools that cannot provide laptops for their students.
 
 
 
