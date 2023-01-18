@@ -63,7 +63,7 @@ In the developing world, climate data is still manually entered. These data sets
 [Kewt(2019)](https://www.aljazeera.com/opinions/2019/3/13/digital-colonialism-is-threatening-the-global-south) says that this could be another form of existential risk in the digital world. Traditional colonialism involved the eviction of indigenous populations from their lands, the exploitation of their labour, the exercise of extraterritorial rule, and the deliberate backwardness necessary to maintain reliance and plunder. Businesses like the East India Company were crucial to this process. Europeans seized control and possession of vital infrastructure, such as port facilities, water sources, and railroad tracks, in their quest for wealth and power. As a result, tech companies have spread their products throughout the world, collecting data and money from users everywhere while concentrating energy and resources in the US (with China as a growing competitor). Because of the abundance of widely accessible information and technology, less developed nations are unable to create industries and products that can rival those of wealthy Western nations. Additionally, they are unable to defend their people against oppression .
 
 ![Digital-colonization-with-Internet-governance](https://user-images.githubusercontent.com/116093650/212434340-8c00522f-3968-4fad-9d36-88421daef5fa.png)
-Source: 
+Source:(https://www.allerin.com/blog/digital-colonization-with-internet-governance)
 
 ## Conclusion
 
