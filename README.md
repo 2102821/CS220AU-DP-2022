@@ -7,7 +7,7 @@ This GitHub repository is the template for the [CS220AU](https://github.com/khof
 - web-design with [Markdown language](https://guides.github.com/features/mastering-markdown/) and
 - evaluation with the `assessment.md` and the `dp-checklist.md` files. 
 
-This website aims to explore some of the effects of the Digital divide and how it could become and exesentail risk to society. This is already an exsitental threat to society but this website goes in depth with videos and images for more understanding.The writing format folllows the APA style, but the referencing does not. In this case my referencing are in my words(Hyperlink referncing). All images are used from Google websites and all videos are from youtube, with the link of the creators credited after each image.
+This website aims to explore some of the effects of the Digital divide and how it could become and existential threat to society. This is already an exsitentail threat to society, but this website goes in depth with videos and images for more understanding.The writing format folllows the APA style, but the referencing does not. In this case, my referencing are in my words(Hyperlink referencing). All images are used from Google websites and all videos are from youtube, with the link of the creators credited after each image.
 
 The URL of the website can be found in the sidebar, under 'About'. The homepage uses the information in the `index.md` file.
 
