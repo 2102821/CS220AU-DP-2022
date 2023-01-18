@@ -8,6 +8,7 @@ The website future of humanity insitutue [FAQ states that](https://existential-r
 <br>
 ![image](https://user-images.githubusercontent.com/116093650/212420453-bf6c07b8-ac3b-41e3-ae72-83510e14aa17.jpg)
 <br> 
+Source:(https://masspeaceaction.org/twin-existential-threats/) 
 
 ### WHAT IS THE DIGITAL DIVIDE?
 
@@ -25,6 +26,7 @@ source:(https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff
 <br><br>
 
 ![Slide4](https://user-images.githubusercontent.com/116093650/212422963-26e42141-f699-4b3b-844f-bf8edb40b21c.jpeg) 
+Source: 
 
 [According to kelly(2022)](https://www.forbes.com/sites/jackkelly/2022/03/02/the-lack-of-digital-tech-talent-is-an-existential-threat-to-business-growth-and-innovation/?sh=1ea475927628), the digital divide was originally thought to be the result of economic stagnation and was considered to be a passing phenomenon that would vanish as technology became more widely used. Instead, despite the widespread advertising of digital equipment with Internet access, the divide still exists today. The reasons for this can be anything from the expensive nature of the aforementioned devices to ignorance of how to use them or a lack of facilities for their accessibility. Therefore, the lack of digital tech talent could be an existential risk to business growth and innovation, it has been gradually escalating for years. The speed of everything has now increased, which many people weren't aware of. We are currently living in a brand-new, rapidly evolving technological society. Just to keep up with the changes, you'll need to have some basic technical skills. If you do not, you will almost certainly fall further behind. Individuals must constantly educate themselves if they want to remain ahead of the curve. Luckily, many forward-thinking businesses provide opportunities for you to acquire new skills. This is particularly true now that smart corporate leaders understand that giving employees access to information is the key to winning the war for skills and bucking the Great Resignation trend. In order to help people, learn technology, computer security, artificial intelligence, the analysis of data, and software engineering, Udacity is an edtech company that provides extensive, open courses online. These are the skills required for the workplace of the future. 
 
